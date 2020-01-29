@@ -9,5 +9,5 @@ public class AppinsightApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AppinsightApplication.class, args);
 	}
-
+	
 }
